@@ -12,3 +12,5 @@
 - El problema de **camino más corto** en una gráfica $G$ con pesos en las aristas y dos vértices $u$ y $v$, encontrar el camino de $u$ a $v$ con costo mínimo.
 - El problema de la **clique máxima** de una gráfica $G$, encontrar el subgrafo completo de cardinalidad máxima.
 - El problema de **isomorfismo de gráficas** dados dos gráficas $G$ y $H$, determinar si son isomorfos.
+
+Estos solo son algunos de los problemas clásicos.
